@@ -170,7 +170,7 @@ tr:nth-child(even) {
             Fin
             <span>ST &#8377; EET</span>
           </h4>
-          <img src="https://stackblitz.com/files/react-7vjrwk/github/Snegarj/react-simple-web/master/public/ryto.png" />
+          <img src="https://stackblitz.com/files/react-y3ma8h/github/Snegarj/react-Web-app/master/public/ryto.png" />
         </div>
         <div className="s2 inline">
           <div>
@@ -183,7 +183,7 @@ tr:nth-child(even) {
           <div className="inline">
             <h5 className="yellow">Powered by</h5>
 
-            <img src="https://stackblitz.com/files/react-7vjrwk/github/Snegarj/react-simple-web/master/public/wazirx.png" />
+            <img src="https://stackblitz.com/files/react-y3ma8h/github/Snegarj/react-Web-app/master/public/waz.png" />
           </div>
         </div>
       </div>
@@ -295,7 +295,7 @@ tr:nth-child(even) {
             <h1>India's Most Advance Derviatives Exchange </h1>
             <h4 className="bg-blue">Register Now to Start Trading </h4>
           </div>
-          <img src="https://stackblitz.com/files/react-7vjrwk/github/Snegarj/react-simple-web/master/public/ftx.png" />
+          <img src="https://stackblitz.com/files/react-y3ma8h/github/Snegarj/react-Web-app/master/public/ftx.png" />
         </div>
       </div>
       <div className="section6">
